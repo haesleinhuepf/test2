@@ -1,1 +1,1 @@
-Text mit echtem Tipfehler
+Text mit echtem Tippfehler
